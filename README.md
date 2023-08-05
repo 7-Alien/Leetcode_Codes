@@ -1,2 +1,2 @@
 # Leetcode_Codes
-Codes from leetcode
+Here are some codes i solved from leetcode.
